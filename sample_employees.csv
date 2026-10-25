@@ -1,0 +1,5 @@
+employee_code,first_name,last_name,email,phone,gender,department,designation,join_date,basic_salary
+EMP-101,Hamza,Siddiqui,hamza@company.com,+923001112233,Male,Engineering,Senior Software Engineer,2026-01-15,120000
+EMP-102,Ayesha,Malik,ayesha@company.com,+923004445566,Female,Human Resources,HR Executive,2026-02-01,90000
+EMP-103,Bilal,Tariq,bilal@company.com,+923007778899,Male,Finance,Finance Associate,2026-03-10,85000
+EMP-104,Zainab,Fatima,zainab@company.com,+923009990011,Female,Engineering,Frontend Developer,2026-04-01,95000
