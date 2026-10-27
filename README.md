@@ -1,6 +1,11 @@
 # HCM Lite — AI-Assisted Human Capital Management
 
-Built for the **Saylani Hackathon · 24 October 2026 · Zaitoon Ashraf IT Park**.
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge)](https://YOUR-LIVE-LINK)
+
+###### The app starts empty: open it, create your company and Admin on the first-run setup page, then follow the walkthrough below. The first load may take up to a minute if the server is asleep.
+---------------------------------------
+
+### Built for the **Saylani Hackathon · 24 October 2026 · Zaitoon Ashraf IT Park**.
 
 HCM Lite is an end-to-end, web-based Human Capital Management system for **Admin**, **HR**, and **Employees** powered by real-time database aggregations and an intelligent AI assistant.
 
