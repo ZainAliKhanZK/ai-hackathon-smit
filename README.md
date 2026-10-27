@@ -1,6 +1,20 @@
 # HCM Lite — AI-Assisted Human Capital Management
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge)](hcmlite.onrender.com)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:D946EF&height=200&section=header&text=HCM%20Lite&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=AI-assisted%20Human%20Capital%20Management&descSize=20&descAlignY=60" alt="HCM Lite" width="100%">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D946EF&center=true&vCenter=true&width=640&lines=Start+empty.+End+with+insight.;An+AI+that+answers+from+real+data.;From+first+login+to+payslip%2C+one+clean+flow." alt="Typing tagline">
+
+<br>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge)](https://hcmlite.onrender.com/)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+</div>
 
 ###### The app starts empty: open it, create your company and Admin on the first-run setup page, then follow the walkthrough below. The first load may take up to a minute if the server is asleep.
 ---------------------------------------
