@@ -1,6 +1,6 @@
 # HCM Lite — AI-Assisted Human Capital Management
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge)](https://YOUR-LIVE-LINK)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20App-success?style=for-the-badge)]([https://YOUR-LIVE-LINK](https://hcmlite.onrender.com/))
 
 ###### The app starts empty: open it, create your company and Admin on the first-run setup page, then follow the walkthrough below. The first load may take up to a minute if the server is asleep.
 ---------------------------------------
